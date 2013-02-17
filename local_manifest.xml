@@ -26,6 +26,7 @@
   
   <!-- CM hack -->
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" revision="jellybean" />
+   <project path="local_manifest" name="inyourface09/android_local_manifest" revision="master" />
 
   <!-- CodeFireX -->
   <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.7" name="prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" remote="cfx" revision="jb-devel" />
