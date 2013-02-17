@@ -10,7 +10,6 @@
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_hardware_libhardware" />
-  <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
   <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
   <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
@@ -44,8 +43,6 @@
   <project path="local_manifest" name="Mustaavalkosta/android" revision="cm-10.1" />
   <project path="packages/apps/Camera" name="Mustaavalkosta/android_packages_apps_Camera" revision="cm-10.1" />
 
-  <!-- Evervolv -->
-  <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" remote="github" revision="jellybean" />
   <!-- Rukin5197 -->
   <project path="device/htc/primoc" name="rukin5197/android_device_htc_primoc" remote="github" revision="cm-10.1" />
   <project path="vendor/htc/primoc" name="rukin5197/android_vendor_htc_primoc" remote="github" revision="cm-10.1" />
